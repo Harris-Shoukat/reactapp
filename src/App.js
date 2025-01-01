@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>This is a first git hub App</h1>
     </div>
-  );
+  ); 
 }
 
 export default App;
